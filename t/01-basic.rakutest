@@ -1,0 +1,6 @@
+use Test;
+use Sway::API;
+
+pass "replace me";
+
+done-testing;

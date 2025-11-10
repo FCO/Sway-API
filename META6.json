@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "Fernando"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A way to communicate with local SwayWM",
+  "license": "Artistic-2.0",
+  "name": "Sway::API",
+  "perl": "6.d",
+  "provides": {
+    "Sway::API": "lib/Sway/API.rakumod",
+    "Sway::API::Atomic": "lib/Sway/API/Atomic.rakumod",
+    "Sway::API::Command::Atomic": "lib/Sway/API/Command/Atomic.rakumod",
+    "Sway::API::Command::Criteria": "lib/Sway/API/Command/Criteria.rakumod",
+    "Sway::API::Commands": "lib/Sway/API/Commands.rakumod",
+    "Sway::API::Criteria": "lib/Sway/API/Criteria.rakumod",
+    "Sway::API::Event": "lib/Sway/API/Event.rakumod",
+    "Sway::API::Event::Binding": "lib/Sway/API/Event/Binding.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/FCO/Sway-API.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
